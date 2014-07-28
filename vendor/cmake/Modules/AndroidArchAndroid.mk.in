@@ -1,0 +1,1 @@
+include $(call my-dir)/$(TARGET_ARCH_ABI)/Android.mk
